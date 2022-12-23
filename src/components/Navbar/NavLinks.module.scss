@@ -1,0 +1,17 @@
+@import "../../../styles/variables.scss";
+@import "../../../styles/mixins.scss";
+
+.list {
+	list-style: none;
+
+	a {
+		text-decoration: none;
+		color: $white;
+		padding: 1rem;
+		transition: all 0.3s ease-in-out;
+
+		&:hover {
+			font-weight: 500;
+		}
+	}
+}
