@@ -1,34 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+<h1 align="center">Lazarella | Italian cuisine.<br> made with Next.JS. ⚛</h1>
+</div>
 
-## Getting Started
+<p align="center">
+  <a href="#-Tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-First, run the development server:
+<p align="center">
+ <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=04D361&labelColor=281F3D" alt="License" />
+  <img src="https://img.shields.io/github/repo-size/jhonatan-oliveiradev/italian-restaurant?label=forks&message=MIT&color=04D361&labelColor=281F3D" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/jhonatan-oliveiradev/italian-restaurant?label=stars&message=MIT&color=04D361&labelColor=14061f" alt="Stars" />
+</p>
+
+<p align="center">
+    <img style="border-radius: 20px;" src="preview.png" alt="preview">
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="" src=".github/preview-desktop.png" width="100%" />
+</p>
+
+# 📄 Description:
+
+### What is this project? 📝
+
+- A responsive website for a restaurant, made with Next.JS, Sanity and SASS Modules.
+
+# 🚀 Tecnologies:
+
+This project was developed with the following technologies:
+
+### Next.JS 📝
+
+### react-icons 📝
+
+### Sanity 📝
+
+### SASS Modules 📝
+
+How to run:
 
 ```bash
-npm run dev
-# or
-yarn dev
+
+# Clone Repository
+
+$ git clone
+
+# Go to folder
+
+$ cd my-repos
+
+# Install Dependencies
+
+$ npm install / yarn init
+
+# Run Aplication
+
+$ npm run dev / yarn dev
+
+
+Go to http://localhost:3000/ to see the result.
+
 ```
+# 🚧 Project:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### [Live project!]() 🚀
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# 📝 License:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<hr>
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="center">Made by <a href="https://wwwjhonatan.oliveira.com/" target="_blank">Jhonatan Oliveira</a>.</p>
